@@ -9,7 +9,7 @@ Yellow : #F2C641
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:BDEDF2,100:4AD988&height=150&section=header&text=Good%20codes,%20Make%20happy&fontSize=35&fontColor=fff&fontAlignY=28)
 
 <h3 align="center">Hello, I'm Boggy. 🙋‍♂️</h3>
-<h3 align="center">I develop for each other's happiness.</h3>
+<h3 align="center">I develop something for each other's happiness.</h3>
 <br>
 
 <h2 align="center">Contact</h2>
